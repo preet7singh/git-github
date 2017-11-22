@@ -1,0 +1,3 @@
+this is test file.
+first step was committing from local to remote
+2nd step is now to pull latest from remote to local
